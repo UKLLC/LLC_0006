@@ -10,4 +10,4 @@ This will allow us to find out if patients with Long Covid are getting help from
 
 For more information see: https://ukllc.ac.uk/data-use-register/llc_0006
 
-A publication from this project is now in pre-print: https://www.medrxiv.org/content/10.1101/2023.02.10.23285717v1 Please note that this pre-print copy is currently undergoing peer review and is subject to change.
+Analyses in this project are now published: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00744-X/fulltext
